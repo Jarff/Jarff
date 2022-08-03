@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jarff
+- 👋 Hi, I’m Rodrigo Sánchez
 - 👀 I’m interested in Reading, Coding, Learning
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on open source project
